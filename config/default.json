@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://localhost:27017/e-it-school",
+  "jwtSecret": "s3cr3tKyTh@tIsV3yH@rdToGu3ss123!"
+}
